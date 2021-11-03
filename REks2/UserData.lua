@@ -1,5 +1,5 @@
 local UserInfoLib = {}
-
+-- dfgdg
 UserInfoLib.USER_DATA = {
     user_1 = {
         name 		= 'Мария Ивановна Пупкина',
